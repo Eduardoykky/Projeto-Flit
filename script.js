@@ -1,6 +1,7 @@
 const imagens = [
-    {url: './img/esqueleto dansando mto foda.gif', nome: 'Imagem 1', participante: 'participante1.html'},
-    {url: './img/giphy.gif', nome: 'Imagem 2', participante: 'participante2.html'},
+    {url: './img/AirtonFoto.jpg', nome: 'Airton', participante: './AirtonParticipante/airton.html'},
+    {url: './img/BernardoFoto1.jpg', nome: 'Bernardo', participante: './BernardoParticipante/bernardo.html'},
+    {url: './img/EduardoFoto.jpg', nome: 'Eduardo', participante: './EduardoParticipante/eduardo.html'},
   ];
   
   let indiceAtual = 0;
